@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "fullName": "test",
+  "id": "test@mozilla.com",
+  "description": "A test add-on",
+  "author": "Mossop",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
